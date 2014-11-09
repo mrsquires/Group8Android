@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Library_Group8</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Group8 Library!</string>
+    <string name="goCheckOut_btn">Check Out</string>
+    <string name="goDoQuery_btn">Do Query</string>
+    <string name="title_query">Query</string>
+    <string name="query_prompt">Choose a query</string>
+	<string-array name="query_array">
+		<item>Query 1</item>
+		<item>Query 2</item>
+		<item>Query 3</item>
+		<item>Query 4</item>
+		<item>Query 5</item>
+		<item>Query 6</item>
+		<item>Query 7</item>
+    </string-array>
+		<string name="showresult_btn">Show Result</string>
+		<string name="goBack_btn">Back to Main Page</string>
+		<string name="title_checkout">Check Out &amp; Return</string>
+		<string name="studentID">Student ID</string>
+		<string name="bookID">Book ID</string>
+		<string name="date">Date</string>
+		<string name="checkout_btn">Check Out</string>
+		<string name="return_btn">Return</string>
+		<string name="summary_btn">Summary</string>
+		<string name="backtomainpage_btn">Back to Main Page</string>
+
+</resources>
